@@ -1,3 +1,1 @@
-0x03. Shell, init files, variables and expansion
-
-s readme file
+creat a script that creates an alias.
